@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tim Wohlers-Reichel"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 
-Welcome to my website.
+I was born at a very young age.
 ======
 This is a website I made in like 10 minutes because I saw my friend had one. 

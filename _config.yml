@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/ProfilePicture.JPEG"
+  avatar           : "images/profile.png"
   name             : "Tim Wohlers-Reichel"
   pronouns         : # example: "she/her"  
   bio              : "When I grow up I want to be a laser"

@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 
-A data-driven personal website
+Welcome to my website.
 ======
 This is a website I made in like 10 minutes because I saw my friend had one. 

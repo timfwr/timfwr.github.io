@@ -17,7 +17,7 @@ Education
 
 Experience
 ======
-* University of Oxford,Department of Physics, DPhil Candidate, October 2024 - Present
+* University of Oxford,Department of Physics, Probationary Research Student, October 2024 - Present
 * University of Adelaide, Research Assistant, March 2023 - October 2024
 * University of Oxford, Department of Physics, Research Intern, June 2022 - September 2022y
 
